@@ -1,0 +1,22 @@
+{
+    "name": "hctorres02/router",
+    "description": "Another simple router",
+    "version": "0.1",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HC Torres",
+            "email": "hctorres02@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\hctorres02\\router\\": "src/"
+        }
+    }
+}

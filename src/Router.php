@@ -1,6 +1,6 @@
 <?php
 
-namespace hctorres02\router;
+namespace HCTorres02\Router;
 
 class Router
 {

@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hctorres02\\router\\": "src/"
+            "HCTorres02\\Router\\": "src/"
         }
     }
 }
